@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1558237000,
+	"version": 1558192210,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -115,7 +115,6 @@
 		"images/sprite32-sheet0.png",
 		"images/sprite33-sheet0.png",
 		"images/sprite34-sheet0.png",
-		"images/จงเลือกสัตว์ชนิดที่เป็นพาหะของโลกพิษสุนัขบ้า-sheet0.png",
 		"images/แก้ไข2-sheet0.png",
 		"media/bookflip1.ogg",
 		"media/bookflip2.ogg",
